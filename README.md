@@ -1,3 +1,9 @@
+<div align="right">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm90dWsxMWp5cnl2MWhtNncwcGFicjA4cGYzbjc4eDUwMXEybjVmYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZSZTGUtpQr0u7cfveB/giphy.gif"  />
+</div>
+
+###
+
 <h1 align="left">Hello World👋</h1>
 
 ###
@@ -28,6 +34,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/humaira-reactdev/count.svg?"  />
 </div>
 
 ###
