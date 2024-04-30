@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👩🏻‍💻 Coding since 2017<br>🌐 I'm currently learning web development</p>
+<p align="left">👩🏻‍💻 Coding since 2017<br>🌐 I'm currently learning web development<br>👩🏻‍🎓 Computer Science graduate, BRAC University<br>🌟 Fluent in English and Bengali</p>
 
 ###
 
