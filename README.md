@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/045/633/original/Coding_Cat.gif?1662445143"  />
+  <img height="200" src="https://camo.githubusercontent.com/81624ae3491022b0cf3d32416a1bf3b64806f7e05b2b854372c0dd1bf86d8eca/68747470733a2f2f696d67312e7069636d69782e636f6d2f6f75747075742f7374616d702f6e6f726d616c2f352f352f312f322f323435323135355f34633533392e676966"  />
 </div>
 
 ###
